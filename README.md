@@ -11,3 +11,7 @@ POST /products/_bulk
 recipes-batch data brought into kibana with original.json using:
 
 POST /recipes/_bulk
+
+order-batch data brought into kibana with orders_bulk.json using:
+
+POST /order/_bulk
